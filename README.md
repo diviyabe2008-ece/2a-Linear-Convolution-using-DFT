@@ -63,5 +63,13 @@ title('Graphical Representation of output Signal y');
 Thus, the linear convolution of the two given sequences were performed and its result was verified.
 
 <img width="1600" height="1412" alt="WhatsApp Image 2026-08-25 at 9 28 34 AM" src="https://github.com/user-attachments/assets/cbebd795-0d9c-4b6a-8026-1874d87c1b96" />
-<img width="1600" height="1412" alt="WhatsApp Image 2026-08-25 at 9 28 34 AM" src="https://github.com/user-attachments/assets/cbebd795-0d9c-4b6a-8026-1874d87c1b96" />
 
+
+## RESULT:
+Thus, the linear convolution of the two given sequences were performed and its 
+
+## RESULT:
+Thus, the linear convolution of the two given sequences were performed and its 
+
+## RESULT:
+Thus, the linear convolution of the two given sequences were performed and its 
