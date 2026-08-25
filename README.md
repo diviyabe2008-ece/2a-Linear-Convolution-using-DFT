@@ -83,6 +83,8 @@ Thus, the linear convolution of the two given sequences were performed and its
 .
 .
 .
+## RESULT:
+Thus, the linear convolution of the two given sequences were performed and its 
 .
 ## RESULT:
 Thus, the linear convolution of the two given sequences were performed and its 
